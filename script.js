@@ -232,11 +232,11 @@ const setText = (el, val) => el && (el.textContent = val);
 
       "hero.title":
 
-        "We prepare tomorrow’s leaders with global education and rich human experience.",
+        "We prepare tomorrow’s leaders with global education and rich human experience",
 
       "hero.sub":
 
-        "Modern curricula, international activities, and a diverse community empowering students to excel locally and globally.",
+        "Modern curricula, international activities, and a diverse community empowering students to excel locally",
 
       "cta.apply": "Apply Now",
 
@@ -246,7 +246,7 @@ const setText = (el, val) => el && (el.textContent = val);
 
       "about.body":
 
-        "A co-educational secondary school offering national & international tracks (STEM, Cambridge, IB-Style) with values and academic excellence.",
+        "A co-educational secondary school offering national & international tracks with values and academic excellence.",
 
       "programs.title": "Academic Programs",
 
