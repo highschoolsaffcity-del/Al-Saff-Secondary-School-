@@ -160,7 +160,7 @@ const setText = (el, val) => el && (el.textContent = val);
 
       "cta.apply": "قدِّم الآن",
 
-      "cta.explore": "استكشف البرامج المدرسية",
+      "cta.explore": "المدرسية استكشف البرامج ",
 
       "about.title": "من نحن",
 
